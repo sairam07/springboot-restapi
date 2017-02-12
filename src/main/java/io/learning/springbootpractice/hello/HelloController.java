@@ -12,5 +12,5 @@ public class HelloController {
 		
 		return "Hello Sairam, Spring Boot started and wants to say Hi! ";
 	}
-
+	
 }
