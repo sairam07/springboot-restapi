@@ -12,6 +12,9 @@ public class Topic {
 		this.topicName = topicName;
 		this.topicDescription = topicDescription;
 	}
+	public Topic() {
+		super();
+	}
 	public String getTpoicID() {
 		return tpoicID;
 	}
